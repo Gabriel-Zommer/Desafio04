@@ -1,0 +1,22 @@
+th{
+    font-size: 30px;
+    background-color: #BB86FC;
+    color: white;
+    padding-inline-start: 20px;
+    padding-inline-end: 20px; 
+}
+
+td{
+    font-size: 25px;
+    background-color: #424250;
+    color: white;
+    padding-inline-start: 30px;
+    padding-inline-end: 30px; 
+}
+
+.casa {
+    font-size: 30px;
+    background-color: #00C4B4;
+    padding-inline-start: 20px;
+    padding-inline-end: 20px; 
+}
